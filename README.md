@@ -8,16 +8,20 @@
 <strong>Espero muito </strong> que goste do meu primeiro </strong>README <strong>  😁.
 </p>
 
- ## No Gif a baixo você pode vê um pouco de como ficou o projero: <br />
+<h2 align="center"> Objetivo </h2>
+<p align="center">
+Como desafio da Rockteseat, o intuito era reciar um layout de um formulário utilizando HTML e CSS. 
+</p>
 
 
-<div align="center">
-<img src="![GIF form](https://user-images.githubusercontent.com/103220612/183495550-b1f61ea7-2243-48d2-8700-739c3df52838.gif)" />
-</div>
+<h2 align="center"> No Gif a baixo você pode vê um pouco de como ficou o projero: <br /></h2>
+
+
+![Desmonstração do formulário em forma de Gif](https://github.com/eduardolm6/Formulario-avancado/blob/main/GIF%20form.gif)
 
 
 
-##  Você pode visualizar o layout do projeto através do link abaixo:
+<h2 align="center">  Você pode visualizar o layout do projeto através do link abaixo:</h2>
 
  [Layout Web](<https://www.figma.com/file/GRLID1pCIJ9qf6nYpgSA8b/Stage-03---Formul%C3%A1rio-avan%C3%A7ado-(Copy)?node-id=0%3A1>)
 
