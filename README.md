@@ -14,7 +14,7 @@ Como desafio da Rockteseat, o intuito era reciar um layout de um formulário uti
 </p>
 
 
-<h2 align="center"> No Gif a baixo você pode vê um pouco de como ficou o projero: <br /></h2>
+<h2 align="center"> No Gif a baixo você pode vê um pouco de como ficou o projeto: <br /></h2>
 
 
 ![Desmonstração do formulário em forma de Gif](https://github.com/eduardolm6/Formulario-avancado/blob/main/GIF%20form.gif)
